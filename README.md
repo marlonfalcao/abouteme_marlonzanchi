@@ -1,6 +1,6 @@
 ## Sobre mim
 
-Hi, I'm Marlon Santos (Falcão). A lover aviation since I was a child, I dedicate myself to this area for more than 10 years and I am currently a commercial airline pilot. Atualy, I believe that in the present and future, who knows some thing abot tech such as programming language, AI, data science, whatever... This one will be a step ahead of the others. However, this is my goal. I am currently studying HTML5, CSS3 and JavaScript, I also have some projects in Python and I'm looking for my first oportunity as developer.
+Hi, I'm Marlon Zanchi (Falcão). A lover aviation since I was a child, I dedicate myself to this area for more than 10 years and I am currently a commercial airline pilot. Atualy, I believe that in the present and future, who knows some thing abot tech such as programming language, AI, data science, whatever... This one will be a step ahead of the others. However, this is my goal. I am currently studying HTML5, CSS3 and JavaScript, I also have some projects in Python and I'm looking for my first oportunity as developer.
 
  <div>
   <a href="https://github.com/marlonfalcao">
